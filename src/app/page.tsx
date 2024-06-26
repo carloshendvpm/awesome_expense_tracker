@@ -6,6 +6,6 @@ import Link from "next/link"
 
 export default function Component() {
   return (
-    <h1>Hello</h1>
+    <h1>go to /auth </h1>
   )
 }
